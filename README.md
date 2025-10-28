@@ -1,6 +1,5 @@
 <p align="center">
     <img src="./public/preview.png">
-    <div></div>
 
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Livewire-e00bc0?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
